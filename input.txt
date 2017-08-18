@@ -1,0 +1,10 @@
+thing person strong
+thing child weak
+thing rabbit quick
+thing mouse nimble
+add person dex clunky
+power person > rabbit
+power nothing > person
+power rabbit > mouse
+power person > child
+q
